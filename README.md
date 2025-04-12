@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on LofiTune, a musicplayer project<br>🌱 I’m currently learning Data Structures and Algorithms<br>💬 Ask me about React, C, C++, Java, Javascript<br>📫 How to reach me dinc.yusuf974@gmail.com<br>⚡ Fun fact I tend to learn the language you speak before we have conversation
+🔭 I’m currently working on building my own Window Manager and a elenctron js project about language learning<br>🌱 I’m currently learning Data Structures and Algorithms<br>💬 Ask me about React, C, C++, Java, Javascript<br>📫 How to reach me dinc.yusuf974@gmail.com<br>⚡ Fun fact I tend to learn the language you speak before we have conversation
 
 
 ## 🌐 Socials:
